@@ -759,7 +759,7 @@ text-transform: uppercase;
     margin-bottom: 100px;
     padding-bottom: var(--main-padding);
     padding-top: var(--main-padding);
-    background-image: url(/quote.jpg);
+    background-image: url(../quote.jpg);
     background-size: cover;
     color: white;
     position: relative;
@@ -901,7 +901,7 @@ margin-left: 5px;
   .subscribe{
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
-    background-image: url(/subscribe.jpg);
+    background-image: url(../subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
